@@ -7,4 +7,7 @@
 > [1주차]
 
 
-| Subject | Pracice | Note |
+| Subject | Pratice | Report | Note |
+| :-----: | :-----: | :----: | :--: |
+| 변수 | 	
+ |  자료형 |
