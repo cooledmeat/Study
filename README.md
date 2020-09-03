@@ -19,6 +19,6 @@
 
 | Subject | Pratice | Report | Note |
 | :-----: | :-----: | :----: | :--: |
-| 연산자와 연산식 |
-| 조건문 |
-| 반복문 |
+| [연산자와 연산식](https://github.com/cooledmeat/Study/blob/master/Note/2st.md)  | [연산식](https://github.com/cooledmeat/Curriculum/blob/master/Operator.java) | - | - |
+| [조건문]((https://github.com/cooledmeat/Study/blob/master/Note/2stConditionalStatement.md)) | [if문, switch문](https://github.com/cooledmeat/Curriculum/blob/master/ConditionalStatment.java) | - | [삼각형 만들기](https://github.com/cooledmeat/Curriculum/blob/master/ForPratice.java) |
+| [반복문](https://github.com/cooledmeat/Study/blob/master/Note/2stRepetitiveStatement.md) | [for문, while문, do~while문](https://github.com/cooledmeat/Curriculum/blob/master/ForStatment.java) | - | [while문 예제](https://github.com/cooledmeat/Curriculum/blob/master/WhilePratice.java) |
