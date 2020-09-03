@@ -9,9 +9,11 @@
 
 | Subject | Pratice | Report | Note |
 | :-----: | :-----: | :----: | :--: |
-| 변수 | 	
-|  자료형 |
+| 자바 | [실행문](https://github.com/cooledmeat/Study/blob/master/Note/1st.md) | - | - |
+| 변수 | [변수의 이해](https://github.com/cooledmeat/Curriculum/blob/master/Variable.java) | - | [데이터 타입](https://github.com/cooledmeat/Curriculum/blob/master/DataType.java) |
+| 자료형 | - | - | - |
 
+***
 
 > [2주차]
 
